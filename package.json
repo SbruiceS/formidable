@@ -30,7 +30,7 @@
     "test:ci": "node --experimental-vm-modules node_modules/.bin/nyc jest --coverage"
   },
   "dependencies": {
-    "dezalgo": "1.0.3",
+    "dezalgo": "1.0.4",
     "hexoid": "1.0.0",
     "once": "1.4.0"
   },
